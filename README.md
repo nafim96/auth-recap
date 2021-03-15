@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started Firebase with React
+# [Live Firebase Deploy Site](https://auth-recap-f808f.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
